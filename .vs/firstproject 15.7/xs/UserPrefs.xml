@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{67B29EE7-4B4D-48C3-BD75-995A2DACCC79}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../vamsi/multiplication/multi.cs">
+    <Files>
+      <File FileName="firstproject 15.7/Program.cs" />
+      <File FileName="firstproject 15.7/testclass.cs" />
+      <File FileName="../vamsi/multiplication/multi.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstproject 15.7" expanded="True">
+            <Node name="firstproject 15.7">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.firstproject_22015.7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
